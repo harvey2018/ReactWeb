@@ -1,0 +1,12 @@
+F:\design2026\react\web\demo\ReactWeb\Domain\bin\Debug\net9.0\Domain.deps.json
+F:\design2026\react\web\demo\ReactWeb\Domain\bin\Debug\net9.0\Domain.dll
+F:\design2026\react\web\demo\ReactWeb\Domain\bin\Debug\net9.0\Domain.pdb
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\Domain.dll
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\refint\Domain.dll
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\Domain.pdb
+F:\design2026\react\web\demo\ReactWeb\Domain\obj\Debug\net9.0\ref\Domain.dll

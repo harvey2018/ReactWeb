@@ -1,0 +1,16 @@
+F:\design2026\react\web\demo\ReactWeb\Persistence\bin\Debug\net9.0\Persistence.deps.json
+F:\design2026\react\web\demo\ReactWeb\Persistence\bin\Debug\net9.0\Persistence.dll
+F:\design2026\react\web\demo\ReactWeb\Persistence\bin\Debug\net9.0\Persistence.pdb
+F:\design2026\react\web\demo\ReactWeb\Persistence\bin\Debug\net9.0\Domain.dll
+F:\design2026\react\web\demo\ReactWeb\Persistence\bin\Debug\net9.0\Domain.pdb
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persistence.dll
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\Persistence.pdb
+F:\design2026\react\web\demo\ReactWeb\Persistence\obj\Debug\net9.0\ref\Persistence.dll
