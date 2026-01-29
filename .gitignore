@@ -70,6 +70,8 @@ artifacts/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
+API/obj/
+API/bin/
 
 # StyleCop
 StyleCopReport.xml
